@@ -1,5 +1,8 @@
 # BioInformatics
 
+## BioInformatics: Algorithms and Applications
+*Bioinformatics is an interdisciplinary field of science for analyzing and interpreting vast biological data using computational techniques.*
+
 ### COURSE LAYOUT
 
 - Week 1  :  Introduction, DNA sequence analysis, DNA Databases
