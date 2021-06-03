@@ -16,5 +16,5 @@
 - Week 12 :  Development of algorithms, awk programming, machine learning techniques, applications using WEKA
 
 ### BOOKS AND REFERENCES
-•    M. Michael Gromiha, Protein Bioinformatics: From Sequence to Function, Academic Press, 2010
-•    D.E. Krane and M.L. Raymer, Fundamental concepts of bioinformatics, Pearson Education Inc. 2006
+- M. Michael Gromiha, Protein Bioinformatics: From Sequence to Function, Academic Press, 2010
+- D.E. Krane and M.L. Raymer, Fundamental concepts of bioinformatics, Pearson Education Inc. 2006
