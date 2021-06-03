@@ -3,6 +3,12 @@
 ## BioInformatics: Algorithms and Applications
 *Bioinformatics is an interdisciplinary field of science for analyzing and interpreting vast biological data using computational techniques.*
 
+- The major aspects of bioinformatics such as 
+       - the development of databases, 
+       - computationally derived hypothesis, 
+       - algorithms, and 
+       - computer-aided drug design.
+
 ### COURSE LAYOUT
 
 - Week 1  :  Introduction, DNA sequence analysis, DNA Databases
